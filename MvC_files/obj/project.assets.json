@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\git-ali1\\DevCard12\\MvC_files\\MvC_files.csproj",
+      "projectUniqueName": "E:\\git-ali11\\MvC_files\\MvC_files.csproj",
       "projectName": "MvC_files",
-      "projectPath": "E:\\git-ali1\\DevCard12\\MvC_files\\MvC_files.csproj",
+      "projectPath": "E:\\git-ali11\\MvC_files\\MvC_files.csproj",
       "packagesPath": "C:\\Users\\PSP\\.nuget\\packages\\",
-      "outputPath": "E:\\git-ali1\\DevCard12\\MvC_files\\obj\\",
+      "outputPath": "E:\\git-ali11\\MvC_files\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PSP\\AppData\\Roaming\\NuGet\\NuGet.Config",
